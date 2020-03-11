@@ -1,0 +1,39 @@
+[submodule "mlr3learners.liblinear"]
+	path = mlr3learners.liblinear
+	url = git@github.com:mlr3learners/mlr3learners.liblinear.git
+[submodule "mlr3learners.randomForest"]
+	path = mlr3learners.randomForest
+	url = git@github.com:mlr3learners/mlr3learners.randomForest.git
+[submodule "mlr3learners.lightgbm"]
+	path = mlr3learners.lightgbm
+	url = git@github.com:mlr3learners/mlr3learners.lightgbm.git
+[submodule "mlr3learners.drat"]
+	path = mlr3learners.drat
+	url = git@github.com:mlr3learners/mlr3learners.drat.git
+[submodule "mlr3learners.mboost"]
+	path = mlr3learners.mboost
+	url = git@github.com:mlr3learners/mlr3learners.mboost.git
+[submodule "mlr3learners.extratrees"]
+	path = mlr3learners.extratrees
+	url = git@github.com:mlr3learners/mlr3learners.extratrees.git
+[submodule "mlr3learners.fnn"]
+	path = mlr3learners.fnn
+	url = git@github.com:mlr3learners/mlr3learners.fnn.git
+[submodule "mlr3learners.ksvm"]
+	path = mlr3learners.ksvm
+	url = git@github.com:mlr3learners/mlr3learners.ksvm.git
+[submodule "mlr3learners.dbarts"]
+	path = mlr3learners.dbarts
+	url = git@github.com:mlr3learners/mlr3learners.dbarts.git
+[submodule "mlr3learners.h2o"]
+	path = mlr3learners.h2o
+	url = git@github.com:mlr3learners/mlr3learners.h2o.git
+[submodule "mlr3learners.earth"]
+	path = mlr3learners.earth
+	url = git@github.com:mlr3learners/mlr3learners.earth.git
+[submodule "mlr3learners.ctree"]
+	path = mlr3learners.ctree
+	url = git@github.com:mlr3learners/mlr3learners.ctree.git
+[submodule "mlr3learners.gbm"]
+	path = mlr3learners.gbm
+	url = git@github.com:mlr3learners/mlr3learners.gbm.git
